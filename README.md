@@ -1,5 +1,5 @@
 # Ecological-FootPrint-Survey
-# Introduction to Ecological Footprint Survey
+## Introduction to Ecological Footprint Survey
 This project aims to study how big the footprint size of the Eberhard Karls University of Tübingen students is. We chose gender as an independent variable. Thus, our research question is: does ecological footprint size differ across gender in the setting of University of Tübingen? We assume a null hypothesis for this research question. The study is conducted through a survey which has multiple choice and check-box types of questions. There **8** sections in the survey which are titled as **Water Use**, **Food**, **Transportation**, **Shelter**, **Energy Use**, **Clothing**, **Use of Stuff** and **Fun** respectively. These sections enable the participants to see what kind of topics their ecological footprint size is calculated from, and how their daily routines lead to their overall footprint size. Javascript is the programming language used to create this project and through HTML the content was created. CSS files under the project folder were formed for styling the content created by HTML files.
 
 In the following part, we walk you through the use of the web application for data collection, which is conducted via the survey.
